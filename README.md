@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonygc
 - 👀 I’m interested in ReactJs, NodeJs, JS and TS
-- 🌱 I also know GraphQL and Apollo
-- 🏭 I’m looking to collaborate on big companies
+- 🌱 Pattern designs
+- 🏭 I’m want to collaborate on huge companies
 - 📫 How to reach me -> "ing.joseantonio.desarrollo@gmail.com"
 
 <!---
