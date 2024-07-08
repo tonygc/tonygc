@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @tonygc
-- 👀 I’m interested in ReactJs, NodeJs, JS and TS
-- 🌱 Pattern designs
-- 🏭 I’m want to collaborate on huge companies
-- 📫 How to reach me -> "ing.joseantonio.desarrollo@gmail.com"
+Solid, patter designs and clean code my favs 🚀
 
 <!---
 tonygc/tonygc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
